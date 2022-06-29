@@ -1,0 +1,12 @@
+.FormDate{
+    border: 1px solid red;
+    background: white;
+}
+.animate-open{
+    animation: 0.5s;
+}
+.MenuOpen{
+    text-decoration: none;
+    outline: none;
+    list-style: none;
+}
