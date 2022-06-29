@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cafff1b4.css",
+    "main.js": "/static/js/main.1ee0a64f.js",
+    "static/media/slickder1.svg": "/static/media/slickder1.a9fe29ea1e542ce6dd88f83508e0ab91.svg",
+    "static/media/team.svg": "/static/media/team.7be670381ef506562d1928ab58278202.svg",
+    "static/media/slickder3.svg": "/static/media/slickder3.eaf599c1b72ebaf371b85b18a124751b.svg",
+    "static/media/slickder2.svg": "/static/media/slickder2.e668e2ef69cd7ba312107c6cc7715473.svg",
+    "static/media/Login.svg": "/static/media/Login.0b0533ec6a5a57e53bb7791260a40811.svg",
+    "index.html": "/index.html",
+    "main.cafff1b4.css.map": "/static/css/main.cafff1b4.css.map",
+    "main.1ee0a64f.js.map": "/static/js/main.1ee0a64f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cafff1b4.css",
+    "static/js/main.1ee0a64f.js"
+  ]
+}
